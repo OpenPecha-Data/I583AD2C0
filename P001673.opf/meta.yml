@@ -1,7 +1,7 @@
 id: P001673
 initial_creation_type: ocr
 created_at: 23/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:13:51.286907
 source_metadata:
   id: bdr:W1PD100944
   title: སྔ་འགྱུར་བཀའ་མ་ཤིན་ཏུ་རྒྱས་པ།
@@ -805,3 +805,5 @@ source_metadata:
       volume_number: 133
       total_pages: 694
       base_file: v133.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
